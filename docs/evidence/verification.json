@@ -1,0 +1,14 @@
+{
+  "recorded_at": "2026-10-30T14:26:01+08:00",
+  "python": "3.12.1",
+  "platform": "Windows-11-10.0.26200-SP0",
+  "cryptography": "46.0.7",
+  "tests_passed": 16,
+  "handshake_seconds": 0.0831318999407813,
+  "file_bytes": 8388608,
+  "file_seconds": 0.25798920006491244,
+  "throughput_MiB_s": 31.009049983437784,
+  "file_sm3": "ec6935249e8aecc43d3bcebeec3c297114a42dcde3d1c54dc648245e619346cf",
+  "byte_exact": true,
+  "scope": "one local loopback run, not a LAN guarantee"
+}

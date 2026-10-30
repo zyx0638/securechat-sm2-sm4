@@ -1,0 +1,21 @@
+test_bidirectional_records_and_no_plaintext_on_wire (test_crypto.CryptoTests.test_bidirectional_records_and_no_plaintext_on_wire) ... ok
+test_handshake_rejects_tampered_share_and_reflected_role (test_crypto.CryptoTests.test_handshake_rejects_tampered_share_and_reflected_role) ... ok
+test_out_of_order_and_truncated_records_rejected (test_crypto.CryptoTests.test_out_of_order_and_truncated_records_rejected) ... ok
+test_private_key_encrypted_and_wrong_password_rejected (test_crypto.CryptoTests.test_private_key_encrypted_and_wrong_password_rejected) ... ok
+test_sm2_public_key_encryption_and_ciphertext_integrity (test_crypto.CryptoTests.test_sm2_public_key_encryption_and_ciphertext_integrity) ... ok
+test_sm2_signature_rejects_changed_message (test_crypto.CryptoTests.test_sm2_signature_rejects_changed_message) ... ok
+test_sm3_standard_vector (test_crypto.CryptoTests.test_sm3_standard_vector) ... ok
+test_tamper_replay_and_cross_session_rejected (test_crypto.CryptoTests.test_tamper_replay_and_cross_session_rejected) ... ok
+test_bad_file_digest_disconnects_and_removes_partial_file (test_protocol.ProtocolTests.test_bad_file_digest_disconnects_and_removes_partial_file) ... ok
+test_disconnect_cleans_incomplete_transfer (test_protocol.ProtocolTests.test_disconnect_cleans_incomplete_transfer) ... ok
+test_frame_length_bound_and_fragmented_input (test_protocol.ProtocolTests.test_frame_length_bound_and_fragmented_input) ... ok
+test_real_tcp_text_binary_empty_and_duplicate_filename (test_protocol.ProtocolTests.test_real_tcp_text_binary_empty_and_duplicate_filename) ... ok
+test_rejected_identity_never_connects (test_protocol.ProtocolTests.test_rejected_identity_never_connects) ... ok
+test_safe_filename_never_escapes_directory (test_protocol.ProtocolTests.test_safe_filename_never_escapes_directory) ... ok
+test_trust_change_is_rejected_without_reprompt (test_protocol.ProtocolTests.test_trust_change_is_rejected_without_reprompt) ... ok
+test_wrong_sm2_challenge_echo_never_connects (test_protocol.ProtocolTests.test_wrong_sm2_challenge_echo_never_connects) ... ok
+
+----------------------------------------------------------------------
+Ran 16 tests in 1.276s
+
+OK

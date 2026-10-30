@@ -1,0 +1,30 @@
+{
+  "connected": true,
+  "bidirectional_text": true,
+  "image": {
+    "bytes": 26029,
+    "sm3": "b78d6fcef849dc53583c7ba96fb5c3a9792a1a6b8cc1b5a2e38a0172e8629575"
+  },
+  "video": {
+    "bytes": 14062,
+    "sm3": "17a2a33c44ed2c0a785e8185b39b02caed3c9bd7cf7173e8d5a9d3f6f4395ebf"
+  },
+  "image_preview": true,
+  "tamper_replay_demo": true,
+  "layout": [
+    {
+      "name": "Alice",
+      "window_width": 800,
+      "required_width": 751,
+      "overflows": []
+    },
+    {
+      "name": "Bob",
+      "window_width": 800,
+      "required_width": 751,
+      "overflows": []
+    }
+  ],
+  "small_window_layout": true,
+  "failed_send_preserves_draft": true
+}
